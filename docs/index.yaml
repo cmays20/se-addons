@@ -21,7 +21,7 @@ entries:
     created: 2020-10-23T10:59:17.822787-07:00
     description: Sets Up and Configures the Kommander Cluster for a SE Kommander Workshop
     digest: 88550506148dc5a832e61371377f432f25f5af674da917ab78ba777b00c98f48
-    home: https://github.com/vjone/se-addons
+    home: https://github.com/cmays20/se-addons
     maintainers:
     - email: vjone@d2iq.com
       name: vjone
